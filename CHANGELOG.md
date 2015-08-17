@@ -2,6 +2,9 @@ rabbitmq Cookbook CHANGELOG
 ===========================
 This file is used to list changes made in each version of the rabbitmq cookbook.
 
+v4.1.3 (2015-08-17)
+--------------------
+- revert 'sensitive' keyword to make compatible with opsworks chef version (11.10)
 
 v4.1.2 (2015-06-16)
 --------------------
